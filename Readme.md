@@ -13,9 +13,9 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Asad Alexa, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Fairy Alexa, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@AsadSupport](https://t.me/Alexa_MentionBot)
+## Avaiilable on Telegram as [@fairy_support](https://t.me/fairy_support)
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
